@@ -41,7 +41,7 @@ WallModel
     momentumEquationType = ODE // Momentum equation type
     momentumUnderRelaxationODE = 0.100000 // Relaxation factor for momentum ODE
 //    rayDim = 30 // number of ray points
-    rayDim = 100 // number of ray points
+    rayDim = 180 // number of ray points
     suthTRef = 100.0 // Reference temperature for viscosity power law
     suthViscRef = 3e-4 // Reference viscosity for viscosity power law
     turbPradntl = 0.90000 // Turbulent Prandtl
